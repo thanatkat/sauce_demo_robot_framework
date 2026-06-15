@@ -4,6 +4,7 @@ Automated E2E test for SauceDemo covering the full purchase flow from login to o
 ## Install:
 - pip install robotframework
 - pip install robotframework-seleniumlibrary
+- pip install pyyaml
 
 ## How to Run:
 - robot tests/E2E.robot
