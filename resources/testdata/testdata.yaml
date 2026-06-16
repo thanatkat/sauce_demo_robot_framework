@@ -1,0 +1,14 @@
+login:
+  username: standard_user
+  password: secret_sauce
+
+products:
+  - Sauce Labs Backpack
+  - Sauce Labs Bike Light
+
+product_count: 2
+
+checkout:
+  firstname: testfirstname
+  lastname: testlastname
+  postcode: "10000"
